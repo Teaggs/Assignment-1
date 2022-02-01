@@ -1,0 +1,7 @@
+.header  {
+   display: flex;
+   position: fixed;
+   background-color: #1f2937;
+   max-height: 100px;
+   width: auto;}
+
